@@ -2,7 +2,7 @@ name: Crazy
 
 on:
   issues:
-    types: [created]
+    types: [labeled]
 
 jobs:
 
